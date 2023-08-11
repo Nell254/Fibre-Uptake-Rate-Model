@@ -33,7 +33,7 @@ python3 -m venv .venv
 # You should now see the folder `.venv` in your repo
 ```
 
-### This is how you activate the virtual environment in a terminal and install the project dependencies
+### Activate the virtual environment in a terminal and install the project dependencies
 
 ```bash
 # Activate the virtual environment
