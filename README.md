@@ -2,14 +2,10 @@
 
 ## Project description
 
-The project is about developing an application that predicts the uptake rate of fibre in a given geographic location in South Africa. This helps Telcos to decide where to roll out fibre, not primarily on the cost component of the rollout, but based on potential revenues and ROI.
+The project is about developing an application that predicts the uptake rate of fibre in a given geographic location within South Africa. This helps Telcos to decide where to roll out fibre, not primarily on the cost component of the rollout, but based on potential revenues and ROI.
 The outcome of this project is an interactive web application that visualizies the predicted fiber-optics uptake rate for geographic locations in South Africa. 
 
 ![streamlit_landing_page](https://github.com/Explore-AI/internship-project-2207-17/assets/77712936/2776363a-a66b-4e8a-8d0f-80951e9d6e6f)
-
-
-- [Notion Page](https://www.notion.so/explore-ai/Fibre-competitive-intensity-model-B-aba2e418d1fb4ce084e52fa10f70867b)
-
 
 ## Environment
 
