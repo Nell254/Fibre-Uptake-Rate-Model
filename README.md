@@ -1,4 +1,4 @@
-# fibre-competitive-intensity-model
+# Fibre-Uptake-Rate-Model
 
 ## Project description
 
